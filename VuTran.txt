@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-ahihi
-=======
-<<<<<<< HEAD
 ahihi
 
 Tran Quoc Vu
-=======
->>>>>>> parent of 02d371e... edit VuTran.txt
->>>>>>> parent of fb801bc... Revert "?"
