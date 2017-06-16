@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 ahihi
 
 Tran Quoc Vu
+=======
+>>>>>>> parent of 02d371e... edit VuTran.txt
